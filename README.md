@@ -45,17 +45,4 @@ My background includes experience with React, and backend development with Node 
 
 <br>
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Haniin911&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-
-<br>
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br>
-
-
-<img src="https://raw.githubusercontent.com/Haniin911/snk/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
