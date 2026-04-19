@@ -6,7 +6,8 @@
 <hr>
 
 
-I’m currently learning **Machine Learning** and exploring how data, algorithms, and creativity can come together to solve real-world problems.<br> My background includes experience with **Python**, **React**, and **backend development**, and I’m now focusing on building a strong foundation in **ML concepts, data preprocessing, and model training**.
+I’m currently working as a Full Stack Developer, building end-to-end web applications that combine efficient backend systems with responsive, user-friendly interfaces to solve real-world problems.
+My background includes experience with React, and backend development with Node js, allowing me to develop scalable applications across both frontend and server-side environments. I’m focused on strengthening my expertise in modern web technologies, API development, databases, and full-stack architecture.
 
 
 <br>
