@@ -44,9 +44,9 @@ My background includes experience with **React** and **Next.js** on the frontend
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haniin911&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br>
+<img src="https://github-readme-stats-nine-iota-50.vercel.app/api?username=Haniin911&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Haniin911&theme=dark&hide_border=false" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haniin911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-stats-nine-iota-50.vercel.app/api/top-langs/?username=Haniin911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 <br>
 
